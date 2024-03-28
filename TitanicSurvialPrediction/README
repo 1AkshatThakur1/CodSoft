@@ -1,1 +1,6 @@
+PROJECT 1: Titanic Survival Prediction
+For my first project, I worked on the Titanic Survival Prediction project. In this project, I used machine learning techniques to predict whether a passenger on the Titanic survived or not based on various features such as age, gender, ticket class, and fare.
+I conducted data preprocessing tasks, including handling missing values and encoding categorical variables. Then, I trained several machine learning models, including Random Forest and Gradient Boosting, to predict survival outcomes. I also created a Voting Classifier ensemble to combine the predictions of multiple models for improved performance.
 
+Dataset (Kaggle): https://www.kaggle.com/datasets/yasserh/titanic-dataset 
+Google Colab Link: https://colab.research.google.com/drive/1mOwAseDb0qLYI5hXE7LmcyuSOtlOm4ey?usp=sharing
