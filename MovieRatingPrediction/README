@@ -1,1 +1,10 @@
+❗️ PROJECT 2: Movie Rating Prediction using Python ❗️
 
+👉 For my second project, I embarked on the IMDb Movie Rating Prediction project. This endeavor involved using machine learning techniques to predict the ratings of Indian movies based on features like release year, duration, and number of votes.
+
+I commenced by loading the dataset and performing data preprocessing tasks, including handling missing values and encoding categorical variables. Subsequently, I trained a Gradient Boosting Regressor model to predict movie ratings and evaluated its performance using mean squared error.
+
+Additionally, I visualized the relationship between actual and predicted ratings to gain insights into model performance and provided recommendations for potential improvements.
+
+Google Drive: https://drive.google.com/drive/folders/1O1z3vsl_Yz-V2l9gWn_vlvq5spBV--y5?usp=sharing
+Kaggle (Dataset) : https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
